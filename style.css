@@ -1,4 +1,7 @@
 .skateboard_1{
-  margin-right: 10%;
-  margin-left: 10%;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+div{
+  color:red;
 }
